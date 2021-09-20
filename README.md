@@ -10,7 +10,7 @@
 - Copy comment.db in "SampleDatabase" to this folder **C:\Users\{current user}\AppData\Local**
 - Open backend project (open .sln file with visualstudio) in visualstudio (github repo **9-code-exercises-Ex9-backend**)
 - launch dev mode (press play icon on toolbar or F5)
-- make sure server is running by accessing this link in a browser ***http://localhost:5001/images/Seirei-Gensouki.jpg***
+- make sure server is running by accessing this link in a browser ***http://localhost:5000/images/Seirei-Gensouki.jpg***
 
 ### Run test frontent (repo "9-code-exercises")
 #### Install dependencies
