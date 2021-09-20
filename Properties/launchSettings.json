@@ -18,7 +18,8 @@
     },
     "Ex9Backend": {
       "commandName": "Project",
-      "launchUrl": "weatherforecast",
+      "launchBrowser": true,
+      "launchUrl": "images/Seirei-Gensouki.jpg",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
